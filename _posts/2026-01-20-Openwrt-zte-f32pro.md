@@ -101,6 +101,8 @@ Bus 001 Device 007: ID 19d2:0581 DEMO,Incorporated DEMO Mobile Boardband
 这时候就可以自动切换usb模式了。
 
 ## 贡献：
-https://github.com/fengjiongmax/openwrt-zxic-dongle
-https://openwrt.org/docs/guide-user/network/wan/wwan/usb-modeswitching
-https://openwrt.org/docs/guide-user/network/wan/wwan/ethernetoverusb_rndis
+[fengjiongmax/openwrt-xic-dongle](https://github.com/fengjiongmax/openwrt-zxic-dongle)
+
+[GUIDE/usb-modeswitching](https://openwrt.org/docs/guide-user/network/wan/wwan/usb-modeswitching)
+
+[GUIDE/ethernetoverusb_rndis](https://openwrt.org/docs/guide-user/network/wan/wwan/ethernetoverusb_rndis)
