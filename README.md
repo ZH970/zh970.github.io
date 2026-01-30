@@ -17,7 +17,9 @@
 >
 ### [查看博客戳这里 👆](http://qiubaiying.github.io)
 
-
+<picture decoding="async" loading="lazy">
+  <img alt="github status" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-crt.png">
+</picture>
 
 ## 使用
 
