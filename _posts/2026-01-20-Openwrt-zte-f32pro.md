@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Openwrt配置中兴的随身wifi棒子（4g）
+subtitle:   Openwrt 通过usb-modeswitch编写自定义消息包手动切换随身wifi模式
+date:       2026-01-20
+author:     ZH
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - openwrt
+---
+
 # openwrt-zte-f32pro
 openwrt通过usb使用zxic随身wifi
 
