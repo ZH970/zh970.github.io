@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      二叉树最大深度
+subtitle:   BinaryTree Max Deepth
+date:       2026-1-28
+author:     ZH
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - DataStructure
+    - Algorithm
+---
+
 ## 二叉树最大深度
 
 迭代先序遍历都知道
