@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      CIFAR-10 图像分类 ResNet 实现
+subtitle:   Resnet模型验证与复现
+date:       2025-12-28
+author:     ZH
+header-img: img/post-bg-desk.jpg
+catalog: true
+tags:
+    - MechineLearning
+---
+
 # CIFAR-10 图像分类 ResNet 实现
 
 本项目是对论文《Deep Residual Learning for Image Recognition》(He et al., 2016) 中提出的残差网络 (ResNet) 的复现，专注于 CIFAR-10 数据集上的图像分类任务。
