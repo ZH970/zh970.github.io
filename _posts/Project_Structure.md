@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      单片机一个项目是如何构建的
+subtitle:   keil里面各种配置文件都是什么意思
+date:       2025-12-17
+author:     ZH
+header-img: img/post-bg-keyboard.jpg
+catalog: true
+tags:
+    - MCU
+---
+
 # 一、start（启动文件）
 
 1. **功能**
